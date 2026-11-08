@@ -1,0 +1,4 @@
+SimCore-bridge 1.1.0
+f53a1f036c7c998f3f031dc9de1165b210d3fbca0042ad33b1dd28f94f9e797b  cli-bridge.bat
+c988a22e70698723c9d6f8537817aee544c6cceea31df6557ee669c41b5e8a4e  simcore-cli-bridge.js
+07f87dd71db6212027d750efa4daa23c65053dd36b89df28fcfd135152855ca2  README.txt
